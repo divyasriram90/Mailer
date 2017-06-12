@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+ImplementationVersion: 1.0-SNAPSHOT
+Main-Class: com.simontuffs.onejar.Boot
+One-Jar-Main-Class: TestMail
+
